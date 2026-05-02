@@ -34,7 +34,7 @@ dependencies:
   cupertino_icons: ^1.0.8
   flutter_midi_pro: ^3.1.6
   flutter_midi_command: ^0.5.0
-  flame: ^1.26.0
+  flame: '>=1.26.0 <1.37.0'
   shared_preferences: ^2.3.0
   http: ^1.2.0
   file_picker: ^8.0.0
